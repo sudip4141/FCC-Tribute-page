@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+      
+}
+body{
+    background-color: #EFEEEF;
+}
+#title,#title-2,#img-div,#title-3,#tribute-info{
+    display: grid;
+    justify-content: center;  
+    
+}
+ #list {
+  width: 1000px;
+ height: 650px;        
+ margin: auto;
+ 
+}
+
+#img-div{
+    background-color: white;
+    margin-top: 10px;
+    margin:25px;
+}
+
+#tribute-info{
+
+}
